@@ -1,0 +1,5 @@
+FastAPI-BE/venv
+FastAPI-BE/.env
+
+FastAPI-Worker/venv
+*.idea
